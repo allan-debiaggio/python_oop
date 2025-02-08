@@ -16,7 +16,7 @@ class Item :
         objects like we have done with CSV.
         """
 
-# However, those could also be called from instances.
+# However, those could also be called from instances
 
 item1 = Item()
 item1.is_integer()
